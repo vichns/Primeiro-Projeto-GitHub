@@ -3,4 +3,4 @@ Projeto1
 
 
 ## Links sobre GitHub
-[O que é GitHub e como usá-lo. Descubra clicando no link.](https://www.hostinger.com.br/tutoriais/o-que-github)
+[O que é GitHub e como usá-lo. Descubra clicando no link!](https://www.hostinger.com.br/tutoriais/o-que-github)
